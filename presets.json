@@ -5,5 +5,103 @@
     "category": "スーパー",
     "shortcutName": "ベルクを開く",
     "icloudUrl": "https://www.icloud.com/shortcuts/6fb57b01b37846f3a446b1f80c2160a0"
+  },
+  {
+    "id": "aeon",
+    "name": "イオン",
+    "category": "スーパー",
+    "shortcutName": "イオンを開く",
+    "icloudUrl": "https://www.icloud.com/shortcuts/77af0ea2991b4234afed8e95ecaa9912"
+  },
+  {
+    "id": "itoyokado",
+    "name": "イトーヨーカドー",
+    "category": "スーパー",
+    "shortcutName": "イトーヨーカドーを開く",
+    "icloudUrl": "https://www.icloud.com/shortcuts/16be0e3924384c909a5577888c6cfc3d"
+  },
+  {
+    "id": "ok",
+    "name": "オーケー",
+    "category": "スーパー",
+    "shortcutName": "オーケーを開く",
+    "icloudUrl": "https://www.icloud.com/shortcuts/4e06dbfa0cba4287a91d0bf7b62c4673"
+  },
+  {
+    "id": "yaoko",
+    "name": "ヤオコー",
+    "category": "スーパー",
+    "shortcutName": "ヤオコーを開く",
+    "icloudUrl": "https://www.icloud.com/shortcuts/620e59b128ef4bf79acc77a5eca0cfa1"
+  },
+  {
+    "id": "life",
+    "name": "ライフ",
+    "category": "スーパー",
+    "shortcutName": "ライフを開く",
+    "icloudUrl": "https://www.icloud.com/shortcuts/f114d28f513a4b3ba09e47d50eff4cbd"
+  },
+  {
+    "id": "lopia",
+    "name": "ロピア",
+    "category": "スーパー",
+    "shortcutName": "ロピアを開く",
+    "icloudUrl": "https://www.icloud.com/shortcuts/6aba11ee84a345dbaded2901aec446f0"
+  },
+  {
+    "id": "starbucks",
+    "name": "Starbucks（スターバックス・スタバ）",
+    "category": "カフェ",
+    "shortcutName": "スターバックスを開く",
+    "icloudUrl": "https://www.icloud.com/shortcuts/83c2a599966743c89263cfe1c87327b5"
+  },
+  {
+    "id": "komeda",
+    "name": "コメダ",
+    "category": "カフェ",
+    "shortcutName": "コメダを開く",
+    "icloudUrl": "https://www.icloud.com/shortcuts/fa3203f76b734b4395ce6aa2e3c16fa9"
+  },
+  {
+    "id": "tullys",
+    "name": "タリーズ（Tully’s）",
+    "category": "カフェ",
+    "shortcutName": "タリーズを開く",
+    "icloudUrl": "https://www.icloud.com/shortcuts/83e8f2ec6bac4e4e938ae73416dfa51a"
+  },
+  {
+    "id": "doutor",
+    "name": "ドトール（DVC）",
+    "category": "カフェ",
+    "shortcutName": "ドトールを開く",
+    "icloudUrl": "https://www.icloud.com/shortcuts/92ab01b4184749e9819768724b2fcfb2"
+  },
+  {
+    "id": "welcia",
+    "name": "ウエルシア",
+    "category": "ドラッグストア",
+    "shortcutName": "ウエルシアを開く",
+    "icloudUrl": "https://www.icloud.com/shortcuts/503d28098f014d3187a817b0fd599a16"
+  },
+  {
+    "id": "sugi",
+    "name": "スギ薬局",
+    "category": "ドラッグストア",
+    "shortcutName": "スギ薬局を開く",
+    "icloudUrl": "https://www.icloud.com/shortcuts/557dedf3437a4a28991fe1afc1634581"
+  },
+  {
+    "id": "matsukiyo_cocokara",
+    "name": "マツココ（マツキヨ・ココカラ）",
+    "category": "ドラッグストア",
+    "shortcutName": "マツココを開く",
+    "icloudUrl": "https://www.icloud.com/shortcuts/475e157a5eaf40b4b23afe6e6e98f5b1"
+  },
+  {
+    "id": "cainz",
+    "name": "カインズ（CAINZ）",
+    "category": "ホームセンター",
+    "shortcutName": "カインズを開く",
+    "icloudUrl": "https://www.icloud.com/shortcuts/d3d6accf28c54333b030e525e9d61607"
   }
 ]
